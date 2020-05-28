@@ -1,0 +1,16 @@
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\DAL.dll
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\DAL.pdb
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MySql.Data.DLL
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.dll
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MySql.Data.DLL
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,9 @@
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\bin\Debug\MODELO.dll
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\bin\Debug\MODELO.pdb
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\obj\Debug\MODELO.dll
+c:\users\joão eduardo pequena\documents\visual studio 2012\Projects\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\obj\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\obj\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DE_CONTROLE_DE_FARMACIA\MODELO\obj\Debug\MODELO.pdb
